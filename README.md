@@ -29,3 +29,7 @@ To play the game locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ChauhanSurajSingh/rpg-game.git
+
+## 🤝 Contributing
+
+Contributions are welcome! If you’d like to improve the game, fix bugs, or add features:
